@@ -1,5 +1,4 @@
-👋  
-Hi, I’m Arun Kumar Bakurupanda  
+Arun Kumar Bakurupanda  
 Senior Engineer at Carrier R&D  
 DevOps | Qt | C++
 
