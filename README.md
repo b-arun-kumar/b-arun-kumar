@@ -1,6 +1,5 @@
 Arun Kumar Bakurupanda  
-Senior Engineer at Carrier R&D  
-DevOps | Qt | C++
+Senior DevOps Engineer at Carrier R&D
 
 <!---
 b-arun-kumar/b-arun-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
